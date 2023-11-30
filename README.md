@@ -13,7 +13,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 #### Mr. Hirthick and Ms. Nandhini have successfully completed a groundbreaking project over the course of six months, focusing on Real-time Object Detection and Tracking using YOLOv8 and Streamlit. This collaborative effort showcases their expertise in computer vision, machine learning, and software development.
 
 - ### Contact page
-![demo]([https://media.giphy.com/media/3BstRiqVhZoUMRs4pO/giphy](https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/team%20gif/Hirthick%20(online-video-cutter.com).mp4))
+![demo]([https://media.giphy.com/media/3BstRiqVhZoUMRs4pO/giphy](https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/team%20gif/Hirthick%20(online-video-cutter.com).gif))
 
 
 
