@@ -14,7 +14,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 - ### Contact page
 <video width="640" height="360" controls>
-    <source src="path/to/your/video.mp4" type="video/mp4">
+    <source src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/team%20gif/Hirthick%20(online-video-cutter.com).mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
