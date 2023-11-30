@@ -10,7 +10,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ## Project Overview:
 
-### Mr. Hirthick and Ms. Nandhini have successfully completed a groundbreaking project over the course of six months, focusing on Real-time Object Detection and Tracking using YOLOv8 and Streamlit. This collaborative effort showcases their expertise in computer vision, machine learning, and software development.
+#### Mr. Hirthick and Ms. Nandhini have successfully completed a groundbreaking project over the course of six months, focusing on Real-time Object Detection and Tracking using YOLOv8 and Streamlit. This collaborative effort showcases their expertise in computer vision, machine learning, and software development.
 
 
 
